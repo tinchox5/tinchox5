@@ -1,10 +1,7 @@
-Hi, I'm Tinchox5. I founded ✨[zumerlab](https://github.com/zumerlab)✨ to bring innovative ideas to life through unconventional yet useful projects.
+Hi, I'm Tinchox5, founder of ✨[zumerlab](https://github.com/zumerlab)✨. I like building unusual ideas and turning them into tools people can actually use.
 
-One of my flagship projects is [SnapDOM](https://github.com/zumerlab/snapdom), a high-performance DOM-to-image engine designed for precision, extensibility, and real-world applications. It has gained strong traction within the developer community and continues to evolve through a powerful plugin-based architecture.
+I'm the creator of [SnapDOM](https://github.com/zumerlab/snapdom), a fast and accurate DOM-to-image engine used by developers to capture and transform web content. What started as an experiment has grown into an 8k-star project with a plugin-based architecture, and it's where most of my energy goes today.
 
-Currently, my focus is on developing [Orbit CSS framework](https://github.com/zumerlab/orbit), a modern approach to crafting radial and spatial UIs. In parallel, I continue building [Zumly](https://github.com/zumerlab/zumly), a project aimed at redefining navigation through zoomable interfaces.
+I'm also working on [Orbit](https://github.com/zumerlab/orbit), a CSS framework for radial and spatial interfaces, and [Zumly](https://github.com/zumerlab/zumly), my long-running exploration of zoom-based navigation.
 
-I enjoy exploring the intersection of UI engineering, performance, and unconventional interaction models — turning experimental ideas into practical tools for developers.
-
-Join me on this journey.
-
+Most of my work lives where UI engineering, browser performance, and unconventional interaction meet. If that sounds like your kind of thing, take a look at SnapDOM.
